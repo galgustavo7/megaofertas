@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Impresora Multifunción WiFi">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.4" r="0.62">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <rect width="600" height="600" fill="url(#glow)"/>
+  <circle cx="300" cy="272" r="172" fill="#ffffff" opacity="0.16"/>
+  <circle cx="300" cy="272" r="172" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2"/>
+  <text x="300" y="272" font-size="185" text-anchor="middle" dominant-baseline="central"
+        font-family="'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji','Twemoji Mozilla',sans-serif">🖨️</text>
+  <text x="300" y="498" font-size="34" font-weight="700" fill="#ffffff" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" letter-spacing="1">Epson</text>
+</svg>
