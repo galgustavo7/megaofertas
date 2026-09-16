@@ -1,5 +1,14 @@
 # ⚡ MegaOfertas — Tienda de afiliados de Amazon (Laravel 13)
 
+<p>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-13-FF2D20?logo=laravel&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%E2%89%A5%208.3-777BB4?logo=php&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-database-003B57?logo=sqlite&logoColor=white" />
+  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-4.x-FF6384?logo=chartdotjs&logoColor=white" />
+  <img alt="Licencia" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  <img alt="Estado" src="https://img.shields.io/badge/Estado-activo-10B981" />
+</p>
+
 Tienda de marketing de afiliados construida con **Laravel 13**, diseño moderno responsivo tipo app,
 panel de administración con **dashboard de compras y gráfica de estadísticas**, y **cumplimiento total
 de las reglas de Amazon Associates sobre precios**.
@@ -110,3 +119,7 @@ scripts/generate_images.php               # genera las SVG de productos
   generadas por `scripts/generate_images.php`; puedes reemplazarlas por fotos reales
   en `public/images/products/{slug}.svg`.
 - Los ASIN y cifras de reseñas de la semilla son de demostración: cámbialos en el panel.
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE) — puedes usarlo, modificarlo y distribuirlo libremente.
